@@ -1,1 +1,2 @@
 # dPort
+dPort Network is dedicated to fostering a sustainable and transparent supply chain for electric vehicles (EVs) and their batteries through the innovative use of blockchain technology and AI. The ultimate goal is to significantly increase the EV battery recycling rate ahead of the 2030 and 2050 carbon emission targets, promoting a cradle-to-cradle circular economy. The platform will also work as a borderless Product Lifecycle System for the EV industry to support the global demands and encourage sustainable driver behaviour via incentive schemes.
