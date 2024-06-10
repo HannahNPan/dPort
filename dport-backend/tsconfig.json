@@ -1,0 +1,35 @@
+{
+  /* Visit https://aka.ms/tsconfig to read more about this file */
+  "compilerOptions": {
+    "esModuleInterop": true,
+    /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "lib": [
+      "es2020"
+    ],
+    "module": "commonjs",
+    /* Specify what module code is generated. */
+    "preserveConstEnums": true,
+    "moduleResolution": "node",
+    /* Specify how TypeScript looks up a file from a given module specifier. */
+    "strict": true,
+    /* Enable all strict type-checking options. */
+    "sourceMap": true,
+    "target": "es2022",
+    /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "types": [
+      "node"
+    ],
+    "outDir": "dist",
+    /* Specify an output folder for all emitted files. */
+    "forceConsistentCasingInFileNames": true,
+    /* Ensure that casing is correct in imports. */
+    "useUnknownInCatchVariables": false
+    /* Default catch clause variables as 'unknown' instead of 'any'. */
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}
